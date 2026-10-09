@@ -1,3 +1,0 @@
-hola buenas tardes.
-bienvenidos estudiantes de la unidad didactica "Programacion de sotfware"
-Cambio hecho en nueva-funcion"
